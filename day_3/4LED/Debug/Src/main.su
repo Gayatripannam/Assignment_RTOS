@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	24	static
+../Src/main.c:31:6:vLED1AperiodicTask	16	static
+../Src/main.c:41:6:vLED2AperiodicTask	16	static
+../Src/main.c:52:6:vLED3AperiodicTask	16	static
+../Src/main.c:61:6:vLED4AperiodicTask	16	static
+../Src/main.c:72:5:main	16	static
